@@ -20,5 +20,5 @@ module "repo-with-dot-and-git-suffix" {
 
 module "consul" {
   source  = "hashicorp/consul/aws"
-  version = "0.1.0"
+  version = "0.11.0"
 }
